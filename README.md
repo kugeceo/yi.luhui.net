@@ -1,11 +1,17 @@
 # 鲁虺彝yí语资源网 yi.luhui.net
 鲁虺彝文彝语ꆈꌠꁱꂷ彝yí族网
+
 http://yi.luhui.net
+
+http://yiyu.luhui.net
+
 http://yiwen.luhui.net
+
 http://yizu.luhui.net
+
 http://yiyan.luhui.net
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c03e585a-5526-4a7b-aada-54950557979b/deploy-status)](https://app.netlify.com/sites/yiyu/deploys)
 
 
 彝文（彝语：ꆈꌠꁱꂷ，nuosu bburma，[nɔ̄sū bū̠mā]），又称夷字、爨文、韪书、蝌蚪文、倮语、倮倮文、毕摩文等，是彝族用来记录彝语的文字。不同地区的传统彝文差异很大。目前已规范的现代彝文有“凉山规范彝文”和“云南规范彝文”，前者经中华人民共和国国务院批准，使用较广。
